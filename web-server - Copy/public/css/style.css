@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color:black;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background :linear-gradient(to right,rgba(136, 50, 145, 0.858),rgba(211, 232, 180, 0.858)) ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    height: 700px;
+    width: 500px;
+}
+.head-body{
+    display: flex;
+}
+.imageprof{
+    width: 60%;
+    border-radius: 15%;
+}
+.imageprof img{
+    border-radius: 35%;
+}
+.detail{
+    width: 40%;
+    text-align: center;
+}
+.frm{
+    border-radius: 4px;
+    display: block;
+}
